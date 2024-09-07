@@ -6,6 +6,7 @@ Current GTNH version: 2.6.1
 
 [GTNH Official Website](https://www.gtnewhorizons.com/)
 [GTNH CN Wiki](https://gtnh.huijiwiki.com/)
+[GTNH Wiki](https://gtnh.miraheze.org/wiki/Main_Page)
 
 ## How to use
 
@@ -23,4 +24,12 @@ Current GTNH version: 2.6.1
 
 ## Others
 
+### Change Language
+
 - The default language has been changed to zh_CN, you can change it in the options.txt file such as `lang:en_US`.
+
+### Recommended Resource Pack
+
+Here are some recommended resource packs i use, more resource packs can be found in the [GTNH Wiki - Resource Packs](https://wiki.gtnewhorizons.com/wiki/Resource_Packs).
+
+- [GTNH-Faithful-Textures](https://github.com/Ethryan/GTNH-Faithful-Textures.git)
