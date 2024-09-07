@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["Glow Lines Only Galacticraft Thermal Padding GT V1.0.0.zip","Hidden Galacticraft Thermal Padding GT V1.0.0.zip","Round Large Turbine Overlay.zip","GTNH-Faithful-Textures"]
+resourcePacks:["Glow Lines Only Galacticraft Thermal Padding GT V1.0.0.zip","Hidden Galacticraft Thermal Padding GT V1.0.0.zip","Round Large Turbine Overlay.zip"]
 lastServer:
 lang:zh_CN
 chatVisibility:0
