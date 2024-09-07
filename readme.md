@@ -1,6 +1,6 @@
-# My GTNH Extra
+# My GTNH Extra - maowmiku
 
-Something I added to GTNH.
+Something I and maowmiku added to GTNH.
 
 Current GTNH version: 2.6.1
 
